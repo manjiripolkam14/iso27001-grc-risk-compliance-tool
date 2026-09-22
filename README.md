@@ -112,3 +112,5 @@ A simplified, clearly documented **residual risk formula** is also used on the R
 ## 12. Disclaimer
 
 This is an educational portfolio project using fictional demo data. It does not represent a formal ISO/IEC 27001 audit, certification assessment, or professional compliance engagement.
+
+
